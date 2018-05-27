@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorForHeadings">#2F7BE7</color>
+    <color name="colorForListItemHeader">#9B16DD</color>
+    <color name="colorForListItemIngredient">#B12AF4</color>
+    <color name="selectedListItem">#E5C7F3</color>
+    <color name="favoritesWhiteItem">#EBF5FB</color>
+    <color name="favoritsGreyItem">#D6EAF8</color>
+    <color name="activityHeaderColor">#85C1E9</color>
+</resources>

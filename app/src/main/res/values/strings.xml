@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="searchHeader"> <![CDATA[Enter your ingredient here:\n(separated by , )]]>   </string>
+    <string name="searchButton">Find me a recipe</string>
+    <string name="editTextHint">ex: Tomato, Garlic, ...</string>
+    <string name="listHeaderMessage">Recipes with the ingredients: </string>
+    <string name="publisherNameTV">Publisher:</string>
+    <string name="saveString">save</string>
+    <string name="favoritesHeader">My Recipes</string>
+    <string name="showRecipeString">Show Recipe</string>
+    <string name="favoritesByString">By:</string>
+    <string name="favoritesRankString">Rank:</string>
+    <string name="favoritesString">Favorites</string>
+    <string name="deleteAllString">Delete All</string>
+</resources>
